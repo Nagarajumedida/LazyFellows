@@ -5,7 +5,7 @@ import Peer from 'simple-peer';
 const SocketContext = createContext();
 
 
-// const socket = io('https://warm-wildwood-81069.herokuapp.com');
+
 
 const ContextProvider = ({ children }) => {
 const socket = io('https://kartik.onrender.com/');
