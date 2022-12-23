@@ -32,7 +32,7 @@ Installation
 # Run Locally
 - Clone the project
 
-- git clone https://github.com/Nagarajumedida/frontend_video.git
+- git clone (https://github.com/Nagarajumedida/LazyFellows.git)
  -Go to the project directory
 
 - cd Frontend
