@@ -24,10 +24,10 @@ Installation
 - Chakra-UI
 - Material-UI
 - Screenshots1
-- ![App Screenshot](./image/Screenshot.png)
+- ![App Screenshot](./image/one.png)
 
 # Screenshots2
-- App Screenshot
+- ![App Screenshot](./image/two.png)
 
 # Run Locally
 - Clone the project
@@ -42,8 +42,12 @@ Installation
 - npm install
 
 - Start the server
+# Screenshots3
+- ![App Screenshot](./image/three.png)
 
  - npm run dev
+ # Screenshots3
+- ![App Screenshot](./image/four.png)
 
 ### Prerequisites
 Next.js, React.js, Redux-Thunk , Api , Render. Socket.io, Peer.js, webrtc, Chakra-UI, Material-UI
