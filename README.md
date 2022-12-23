@@ -22,14 +22,16 @@ Installation
 - Peer.js,
 - webrtc.
 - Chakra-UI
-- Material-UI
-- Screenshots1
-- ![App Screenshot](./image/one.png)
+- Material-UI<img width="1680" alt="one" src="https://user-images.githubusercontent.com/94616756/209325547-ddd2907c-0c97-45b8-b68d-f30a221892a0.png">
+
+-
+- 
 
 # Screenshots2
-- ![App Screenshot](./image/two.png)
+- 
 
-# Run Locally
+# Run Locally<img width="1568" alt="two" src="https://user-images.githubusercontent.com/94616756/209325564-1bb503c2-739d-4bdc-9338-720276c3ff00.png">
+
 - Clone the project
 
 - git clone (https://github.com/Nagarajumedida/LazyFellows.git)
@@ -42,14 +44,15 @@ Installation
 - npm install
 
 - Start the server
-# Screenshots3
-- ![App Screenshot](./image/three.png)
+
 
  - npm run dev
- # Screenshots3
-- ![App Screenshot](./image/four.png)
+ # Screenshots3<img width="1479" alt="three" src="https://user-images.githubusercontent.com/94616756/209325585-d3c94d20-6c64-4a50-816d-f65b3a11f6d9.png">
 
-### Prerequisites
+
+
+### Prerequisites<img width="1512" alt="four" src="https://user-images.githubusercontent.com/94616756/209325605-6d8f7717-98ee-41cc-ac02-db6a05d1aecf.png">
+
 Next.js, React.js, Redux-Thunk , Api , Render. Socket.io, Peer.js, webrtc, Chakra-UI, Material-UI
 
 ### Setup
